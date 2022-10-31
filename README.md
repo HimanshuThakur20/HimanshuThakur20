@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **HimanshuThakur20/HimanshuThakur20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+
+<p align="center">
+<a href="https://github.com/HimanshuThakur20">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HimanshuThakur20&count_private=true&show_icons=true&theme=merko" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HimanshuThakur20&theme=merko&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,c,java" />
+  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=HimanshuThakur20&theme=merko"/>
+</a>
+</p>
