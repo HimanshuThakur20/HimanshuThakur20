@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with guidance in career
 - 💬 Ask me about anything
 - 📫 How to reach me: himamshuthakur20@gmail.com (don't bother about spelling , it's correct)
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I keep trying and quitting
 
 
